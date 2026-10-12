@@ -4,7 +4,7 @@
 
 ### 🎓 Étudiant en informatique · Bachelor Réseaux · B2
 
-**🌐 Réseaux · 🖥️ Systèmes · ☁️ Virtualisation · 💻 Développement**
+**Administration réseau · Systèmes Windows · Virtualisation · Développement web**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntoineBoullanger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-boullanger-29340338b/)
@@ -13,31 +13,34 @@
 
 ---
 
-## 👨‍💻 À propos
+## 👨‍💻 À propos de moi
 
-Étudiant en Bachelor Réseaux, je m'intéresse à l'administration réseau, aux systèmes Windows et à la virtualisation. J'aime comprendre, configurer et dépanner les infrastructures informatiques.
+Je suis étudiant en **Bachelor Réseaux**, passionné par les réseaux informatiques, l'administration des systèmes et les infrastructures.
 
-> 💡 Une infrastructure fiable commence par une bonne compréhension de son fonctionnement.
+J'aime comprendre comment les équipements communiquent, configurer des environnements réseau et système, résoudre des problèmes techniques et découvrir de nouvelles technologies.
 
-## 🛠️ Technologies & outils
+Je développe également mes compétences en programmation et en développement web, notamment avec Python, HTML, CSS et JavaScript.
 
-**🌐 Réseaux**
+> 💡 *Une infrastructure fiable commence par une bonne compréhension de son fonctionnement.*
+
+---
+
+## 🛠️ Technologies & compétences
+
+### 🌐 Réseaux
 
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
 
-`IP` · `VLAN` · `Routage` · `DHCP/DNS` · `Packet Tracer`
+### 🖥️ Systèmes & virtualisation
 
-**🖥️ Systèmes & virtualisation**
-
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-`Active Directory` · `PowerShell` · `CMD`
 
-**💻 Développement**
+### 💻 Programmation & développement web
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -46,25 +49,44 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+
 ---
 
-## 🚀 Projets
+## 🚀 Mes projets
 
 📌 **Portfolio en construction**
 
-Je souhaite réaliser des projets pratiques autour des réseaux, de Windows Server, de la virtualisation et du développement web.
 
-## 🎯 Objectifs
+*Cette section sera enrichie au fur et à mesure de mes réalisations.*
 
-- Approfondir mes compétences en réseaux et systèmes.
-- Développer mes connaissances en virtualisation.
+---
+
+## 🎯 Mes objectifs
+
+- Approfondir mes connaissances en administration réseau.
+- Renforcer mes compétences sur Windows Server et Active Directory.
+- Développer ma pratique de VMware et Hyper-V.
 - Progresser en Python et en développement web.
-- Concevoir des infrastructures fiables et sécurisées.
+- Apprendre à concevoir des infrastructures fiables, sécurisées et faciles à maintenir.
+
+---
+
+## 📬 Me retrouver
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Consulter_mes_projets-181717?style=for-the-badge&logo=github)](https://github.com/AntoineBoullanger)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mon_profil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antoine-boullanger-29340338b/)
+
+</div>
 
 ---
 
 <div align="center">
 
-**Comprendre · Configurer · Tester · Progresser**
+**🌐 Comprendre · ⚙️ Configurer · 🔍 Dépanner · 🚀 Progresser**
+
+*Étudiant curieux, motivé par les réseaux, les systèmes et les nouvelles technologies.*
 
 </div>
