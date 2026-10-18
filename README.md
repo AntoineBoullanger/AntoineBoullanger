@@ -54,10 +54,20 @@ Je développe également mes compétences en programmation et en développement 
 
 ## 🚀 Mes projets
 
-📌 **Portfolio en construction**
+### 🌐 1. NetGuard
+**Objectif :** Outil de sécurité
 
+🔗 [Voir le projet](https://github.com/AntoineBoullanger/NetGuard)
 
-*Cette section sera enrichie au fur et à mesure de mes réalisations.*
+### 🖥️ 2. EasyPay
+**Objectif :** Aider à faire la comptabilité plus rapidement
+
+🔗 [Voir le projet](https://github.com/AntoineBoullanger/easypay)
+
+### 🖥️ 3. Ennemis contre gentil
+**Objectif :** Création d'un jeu console
+
+🔗 [Voir le projet](https://github.com/AntoineBoullanger/Projet-jeux-ennemis-contre-gentils)
 
 ---
 
